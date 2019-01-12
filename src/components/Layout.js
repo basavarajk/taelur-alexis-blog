@@ -66,7 +66,7 @@ class Layout extends React.Component {
         <h4
           style={{
            color: `#dba8bc`,
-           'margin-top': `-25px` 
+           marginTop: `-25px` 
           }}
         >
         Front-End Engineer. Founder. Content Creator.
