@@ -2,8 +2,20 @@ html {
     background-color: black;
 }
 
-a {
+h2 {
+    color: #a06376;
+}
+
+h3 a {
     color: #dbc7ce !important;
+}
+
+p a {
+    color: #dbc7ce;
+}
+
+footer a {
+    color: #dbc7ce;
 }
 
 p {
