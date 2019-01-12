@@ -63,7 +63,14 @@ class Layout extends React.Component {
         }}
       >
         {header}
-        
+        <h4
+          style={{
+           color: `#dba8bc`,
+           'margin-top': `=25px` 
+          }}
+        >
+        Front-End Engineer. Founder. Content Creator.
+        </h4>
         {children}
         <footer>
           © {new Date().getFullYear()}, Built with
