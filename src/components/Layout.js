@@ -30,6 +30,7 @@ class Layout extends React.Component {
           </Link>
         </h1>
       )
+    
     } else {
       header = (
         <h3
@@ -56,11 +57,13 @@ class Layout extends React.Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
+          color: `#9e5d76`,
           maxWidth: rhythm(24),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
         {header}
+        
         {children}
         <footer>
           © {new Date().getFullYear()}, Built with

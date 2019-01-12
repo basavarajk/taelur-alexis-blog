@@ -31,10 +31,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who loves to build cool shit.
+              Written by <strong>{author}</strong> who loves to code in bed with her non-existent life partner.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                You should follow HER on Twitter
               </a>
             </p>
           </div>

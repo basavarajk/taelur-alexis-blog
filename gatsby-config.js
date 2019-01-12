@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby-powered Blog`,
+    title: `Tae'lur Alexis`,
+    subtitle: `Musings from a Cosmic Mistake.`,
     author: `Tae'lur Alexis`,
     description: `Official website for Taelur Alexis`,
     siteUrl: `https://taeluralexis.com`,
