@@ -17,8 +17,13 @@ Hey everyone! My name is Tae'lur Alexis. I am a Front-End Engineer as well as Fo
 
 <div>I am also in the process of building my side project turned startup, codeeveryday.io. The startup is a platform dedicated to providing learning resources, curating a study plan based on needs and goals, and a way to find mentorship and get connected with startups.</div>
 
-<img src="https://ibb.co/SNT8F5w">
+<div>My resolutions for the New Year</div>
 
+<iframe
+  src="https://carbon.now.sh/embed/?bg=rgba(223%2C194%2C200%2C1)&t=dracula&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false"
+  style="transform:scale(0.7); margin-left:-200px; width:1024px; height:473px; border:0; overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
 
 
 ![Chinese Salty Egg](./salty_egg.jpg)
