@@ -3,9 +3,9 @@ html {
 }
 
 a {
-    color: #dbc7ce;
+    color: #dbc7ce !important;
 }
 
 p {
-    color:#fff7fa
+    color:#fff7fa !important;
 }
